@@ -1,0 +1,36 @@
+{
+  "name": "njstuya",
+  "version": "2.3.5",
+  "description": "tuyapi wrapper with openhab support",
+  "main": "njstuya",
+  "scripts": {
+    "test": "node njstuya"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unparagoned/njsTuya.git"
+  },
+  "keywords": [
+    "njstuya",
+    "tuya",
+    "openhab",
+    "tuyapi",
+    "smart things"
+  ],
+  "author": "unparagoned",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unparagoned/njsTuya/issues"
+  },
+  "homepage": "https://github.com/unparagoned/njsTuya#readme",
+  "dependencies": {
+    "cloudtuya": "github:unparagoned/cloudtuya",
+    "debug": "^4.2.0",
+    "tuyapi": "^6.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.11.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}

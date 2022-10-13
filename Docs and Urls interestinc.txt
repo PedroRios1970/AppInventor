@@ -1,0 +1,14 @@
+http://kio4.com/appinventor/150_servicios.htm
+
+
+
+*****
+Tuya
+*****
+Con node js
+*****
+https://github.com/unparagoned/njsTuya
+*****
+Con Python
+*****
+https://github.com/dev-est/tuya_tray/blob/master/tuya-tray.py
