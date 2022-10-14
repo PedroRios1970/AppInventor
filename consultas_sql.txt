@@ -1,0 +1,16 @@
+14/10/2022
+Create table
+create table prueba_kk (prueId int, colum_one varchar (20), colum_tow varchar(20), colum_tree varchar(20))
+add Camps ds, f_unic
+// Add campo ds char(1)
+alter table gdelegac_etiq add ds char(1);
+// Add campo f_unic char(1)
+alter table gdelegac_etiq add f_unic char(1);
+
+Insert Datos
+insert into prueba_kk (prueid, colum_one, colum_tow, colum_tree) values(1,'Armando', 'Bronca', 'Segura');
+
+Update datos
+update gdelegac_etiq set ds='N', f_unic='N'
+where rowid > 0;
+
